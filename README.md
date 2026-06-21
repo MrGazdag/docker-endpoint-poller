@@ -1,4 +1,5 @@
 # Docker Endpoint Poller
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-mrgazdag%2Fendpoint--poller-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/mrgazdag/endpoint-poller)
 
 A lightweight Docker image that continuously polls an HTTP endpoint and writes the result to standard output.
 
